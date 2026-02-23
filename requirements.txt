@@ -1,0 +1,9 @@
+flask
+google-generativeai
+python-dotenv
+pillow
+opencv-python
+tqdm
+moviepy
+imageio-ffmpeg
+numpy
