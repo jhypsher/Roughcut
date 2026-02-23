@@ -1,6 +1,6 @@
 # Video Highlight Extractor
 
-Automatically detects and clips highlight moments from a sports video (e.g. basketball shooting events) using **Google Gemini Vision** and **OpenCV**. The pipeline:
+Automatically detects and clips highlight moments from basketball games using **Google Gemini Vision** and **OpenCV**. The pipeline:
 
 1. Extracts frames from the video at a configurable interval
 2. Optionally pre-filters frames using a motion-detection heuristic (cheap, no API cost)
